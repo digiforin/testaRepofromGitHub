@@ -1,1 +1,2 @@
 # testaRepofromGitHub
+Sveiks no GitHub!
